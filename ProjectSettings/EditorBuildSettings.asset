@@ -5,12 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Start.unity
     guid: d35f22f899e8068459d3157774485193
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/basicMenu.unity
     guid: 11e93adaaf1b5504e9eda49e3b3bf174
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/vrMenu.unity
     guid: 3799e3243dafa7644b638aa41182ffac
+  - enabled: 1
+    path: Assets/Photon Unity Networking/Demos/DemoSynchronization/DemoSynchronization-Scene.unity
+    guid: caec1ee6e27780946b8db3d1aebaa478
