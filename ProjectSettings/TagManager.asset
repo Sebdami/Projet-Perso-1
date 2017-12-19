@@ -15,11 +15,11 @@ TagManager:
   - 
   - VRObject
   - VRThrough
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Body
+  - Hand
+  - Head
+  - Blade
+  - Ground
   - 
   - 
   - 
