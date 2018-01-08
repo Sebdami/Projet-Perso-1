@@ -71,7 +71,11 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
+<<<<<<< Updated upstream
     - _Radius: 0.57
+=======
+    - _Radius: 0.55
+>>>>>>> Stashed changes
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
